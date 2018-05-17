@@ -1,0 +1,52 @@
+[
+  {
+    "model": "www.person",
+    "pk": 1,
+    "fields": {
+      "name": "Adam Fortuna",
+      "title": "Course Director",
+      "email": "adamfortuna@python.com",
+      "image": "https://www.file-upload.com/lmq4llhuqjow"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 2,
+    "fields": {
+      "name": "Adam Savage",
+      "title": "Apprentice",
+      "email": "adamsavage@python.com",
+      "image": "https://www.file-upload.com/lmq4llhuqjow"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 3,
+    "fields": {
+      "name": "Ben Adams",
+      "title": "Intern",
+      "email": "benadams@python.com",
+      "image": "https://www.file-upload.com/lmq4llhuqjow"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 4,
+    "fields": {
+      "name": "Justin Bieber",
+      "title": "The Gay",
+      "email": "justinbieber@python.com",
+      "image": "https://www.file-upload.com/lmq4llhuqjow"
+    }
+  },
+  {
+    "model": "www.person",
+    "pk": 5,
+    "fields": {
+      "name": "Scot Pilgrim",
+      "title": "Boss",
+      "email": "scotpilgrim@python.com",
+      "image": "https://www.file-upload.com/lmq4llhuqjow"
+    }
+  }
+]
